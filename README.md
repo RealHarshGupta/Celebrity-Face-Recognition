@@ -35,6 +35,9 @@ This project uses machine learning to recognize and label celebrities in YouTube
     # dlib file to install face_recognition library is must download
     watch tutorial on youtube how to install them
 
+3. Install a dataset for celebrity from kaggle
+   https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset
+
 ## Usage
 
 ### Downloading YouTube Videos
